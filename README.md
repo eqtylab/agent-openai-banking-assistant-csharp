@@ -1,33 +1,3 @@
----
-page_type: sample
-languages:
-- azdeveloper
-- dotnet
-- csharp
-- bicep
-- typescript
-- html
-products:
-- ai-services 
-- azure
-- azure-openai
-- active-directory
-- azure-cognitive-search
-- azure-container-apps
-- azure-sdks
-- semantic-kernel
-- github
-- document-intelligence
-- azure-monitor
-- azure-pipelines
-urlFragment: agent-openai-banking-assistant-csharp
-name: Multi Agents Banking Assistant with .NET and Semantic Kernel
-description: A .NET sample app emulating a personal banking AI-powered assistant to inquire about account balances, review recent transactions, or initiate payments
----
-<!-- YAML front-matter schema: https://review.learn.microsoft.com/en-us/help/contribute/samples/process/onboarding?branch=main#supported-metadata-fields-for-readmemd -->
-<!-- prettier-ignore -->
-<div align="center">
-
 ![](./docs/assets/robot-agents-small.png)
 
 # Multi Agents Banking Assistant with .NET and Semantic Kernel
